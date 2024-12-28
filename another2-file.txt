@@ -1,1 +1,2 @@
 another file number 2 in feature-1
+edith in feature-2 branch
